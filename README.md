@@ -2,17 +2,20 @@
 
 **Governed SEO. Human intent first, AI execution second.**
 
-While "SEO Machine" promises zero humans and full automation, this tool adds real cryptographic governance.
+While "SEO Machine" and similar tools promise zero humans and full autonomous content pipelines, this tool adds real cryptographic governance.
 
-Turn any keyword into a published post — but every major step (research, writing, editing, publishing) must respect a signed IBA Intent Certificate.
+Turn any keyword into a published post — but every major step (research, writing, editing, publishing) must respect a signed **IBA Intent Certificate**.
 
 You stay in control. The AI executes.
 
+## Live Demo
+Try the governed SEO workflow: [https://governinglayer.com/skillguard-html/](https://governinglayer.com/skillguard-html/)
+
 ## Features
 - Enforces human-approved scope, tone, facts, and publishing rules
-- Prevents hallucination, brand damage, and unwanted automation
-- Optional safe hollowing mode
-- Works with any SEO pipeline (including viral "SEO Machine" style tools)
+- Prevents hallucination, brand damage, and uncontrolled automation
+- Optional safe hollowing mode (looks complete but critical knowledge protected)
+- Works with any SEO pipeline, including viral "SEO Machine" style tools
 
 ## Quick Start
 ```bash
