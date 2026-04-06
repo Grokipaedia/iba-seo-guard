@@ -9,7 +9,7 @@ Turn any keyword into a published post — but every major step (research, writi
 You stay in control. The AI executes.
 
 ## Live Demo
-Try the governed SEO workflow: [https://governinglayer.com/skillguard-html/](https://governinglayer.com/skillguard-html/)
+Try the governed SEO workflow: [https://governinglayer.com/seoguard-html/](https://governinglayer.com/seoguard-html/)
 
 ## Features
 - Enforces human-approved scope, tone, facts, and publishing rules
