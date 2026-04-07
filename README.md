@@ -1,8 +1,9 @@
 # iba-seo-guard
 
-**Governed SEO. Human intent first, AI execution second.**
-Patent Pending: GB2603013.0 (filed 5 Feb 2026) and related PCT applications.
-Commercial use or derivative works may require licensing. Contact IBA@intentbound.com
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Patent Pending](https://img.shields.io/badge/Patent-Pending%20GB2603013.0-amber.svg)](https://intentbound.com)
+[![NIST Filed](https://img.shields.io/badge/NIST-2025--0035%20Filed-green.svg)](https://intentbound.com/mandate-html/)
 
 As autonomous SEO tools become more common — promising fully automated pipelines from keyword to published post — the need for real governance has never been greater.
 
